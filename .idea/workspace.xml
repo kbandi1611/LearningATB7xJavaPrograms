@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b3149dc-e44a-40af-8740-bccaee37ea9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_ATB7x_Java_Programs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kklPmuu6mYlD5I1crZsa2omO5m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Java09.executor": "Run",
+    "Application.Lab01.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab011.executor": "Run",
+    "Application.Lab015.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab02.executor": "Run",
+    "Application.Lab020.executor": "Run",
+    "Application.Lab021.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab023.executor": "Run",
+    "Application.Lab024.executor": "Run",
+    "Application.Lab025.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab028.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab03.executor": "Run",
+    "Application.Lab030.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab035.executor": "Run",
+    "Application.Lab036.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab039.executor": "Run",
+    "Application.Lab04.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab05.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab052.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055.executor": "Run",
+    "Application.Lab056.executor": "Run",
+    "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
+    "Application.Lab059.executor": "Run",
+    "Application.Lab06.executor": "Run",
+    "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
+    "Application.Lab062.executor": "Run",
+    "Application.Lab063.executor": "Run",
+    "Application.Lab064.executor": "Run",
+    "Application.Lab066.executor": "Run",
+    "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab069.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab078.executor": "Run",
+    "Application.Lab079.executor": "Run",
+    "Application.Lab08.executor": "Run",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab081.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Debug",
+    "Application.Lab086.executor": "Run",
+    "Application.Lab087.executor": "Run",
+    "Application.Lab088.executor": "Run",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab095.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab100.executor": "Run",
+    "Application.Lab101.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103.executor": "Run",
+    "Application.Lab104.executor": "Run",
+    "Application.Lab105.executor": "Run",
+    "Application.Lab106.executor": "Run",
+    "Application.Lab107.executor": "Run",
+    "Application.Lab108.executor": "Run",
+    "Application.Lab109.executor": "Run",
+    "Application.Lab110.executor": "Run",
+    "Application.Lab111.executor": "Run",
+    "Application.Lab112.executor": "Run",
+    "Application.Lab113.executor": "Run",
+    "Application.Lab117.executor": "Run",
+    "Application.Lab118.executor": "Run",
+    "Application.Lab119.executor": "Run",
+    "Application.Lab120.executor": "Run",
+    "Application.Lab121.executor": "Run",
+    "Application.Lab122.executor": "Run",
+    "Application.Lab123.executor": "Run",
+    "Application.Lab124.executor": "Run",
+    "Application.Lab126.executor": "Run",
+    "Application.Lab127.executor": "Run",
+    "Application.Lab128.executor": "Run",
+    "Application.Lab129.executor": "Run",
+    "Application.Lab130.executor": "Run",
+    "Application.Lab131.executor": "Run",
+    "Application.Lab132.executor": "Run",
+    "Application.Lab133.executor": "Run",
+    "Application.Lab134.executor": "Run",
+    "Application.Lab135.executor": "Run",
+    "Application.Lab136.executor": "Run",
+    "Application.Lab137.executor": "Run",
+    "Application.Lab138.executor": "Run",
+    "Application.Lab139.executor": "Run",
+    "Application.Lab140.executor": "Run",
+    "Application.Lab141.executor": "Run",
+    "Application.Lab142.executor": "Run",
+    "Application.Lab143.executor": "Run",
+    "Application.Lab144.executor": "Run",
+    "Application.Lab145.executor": "Run",
+    "Application.Lab146.executor": "Run",
+    "Application.Lab147.executor": "Run",
+    "Application.Lab148.executor": "Run",
+    "Application.Lab149.executor": "Run",
+    "Application.Lab150.executor": "Run",
+    "Application.Lab151.executor": "Run",
+    "Application.Lab152.executor": "Run",
+    "Application.Lab153.executor": "Run",
+    "Application.Lab154.executor": "Run",
+    "Application.Lab155.executor": "Run",
+    "Application.Lab156.executor": "Run",
+    "Application.Lab159.executor": "Run",
+    "Application.Lab160.executor": "Run",
+    "Application.lab065.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/karth/IdeaProjects/Learning_ATB7x_Java_Programs/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karth\IdeaProjects\Learning_ATB7x_Java_Programs\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b3149dc-e44a-40af-8740-bccaee37ea9b" name="Changes" comment="" />
+      <created>1723835436257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723835436257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Learning_ATB7x_Java_Programs$Lab085.ic" NAME="Lab085 Coverage Results" MODIFIED="1724277346495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>July.ex20072024.*</FILTER>
+    </SUITE>
+  </component>
+</project>
